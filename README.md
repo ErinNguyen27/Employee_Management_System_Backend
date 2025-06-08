@@ -1,4 +1,4 @@
-# Employee-Management-System Full Stack
+# Employee-Management-System Backend
 An full stack project using Java Spring boot and ReactJS
 
 ## Technology Stack

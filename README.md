@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ff83e0c3-9908-470a-8ad6-970427787624)
+
 **Employee Management System Full Stack**
 Technology Stack 
 -Back end: Spring boot3, Spring Data JPA(Hibenate 6), MySQL Database, IntelliJ IDEA, Maven, Postman Client
